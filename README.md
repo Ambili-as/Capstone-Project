@@ -1,6 +1,6 @@
 ### Capstone-Project
 
-# **Student's Performance and Learning style Analyis**
+# **Student's Performance and Learning style Analysis**
 
 **Name** : Ambili A S
 **Organisation** : Entri Elevate
