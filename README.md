@@ -35,3 +35,42 @@
 13.  **Time_Spent_on_Social_Media (hours/week)** - Weekly hours spent on social media
 14.  **Sleep_Hours_per_Night** - Average number of hours of sleep per night
 15.  **Final_Grade** - The final grade obtained by the student
+
+## Data Preprocessing -Data Cleaning:
+### Loading and Cleaning Data:
+- Loaded the dataset using pandas.
+- Examined missing values and duplicates.
+- Removed irrelevant features and duplicate entries.
+- Outlier Detection and removal
+
+## Exploratory Data Analysis (EDA):
+  1) Univariate anlaysis using Histplot, Boxplot and BHoistogram for numerical variables
+  2) Univariate analysis using Countplots for Categorical variables
+  3) Bivariate analysis using Heatmap, Violine plot and Line plot
+  4) Multivariate analysis using Pairplot
+     
+## Data Engineering 
+1) Feature Encoding
+2) Feature Selection
+3) Feature Importance Analysis using Random Forest method
+4) Data Splitting
+5) Feature Scaling
+6) Handling Imbalance Data
+
+## Model Building
+
+1. **Model Selection** – Choose different machine learning algorithms to compare performance.
+2. **Training the Models** – Fit models to the training data.
+3. **Evaluation Metrics** – Assess models using Mean Squared Error and R2Score
+### Regression Algorithms applied:
+- Linear Regression
+- SVM
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors
+- Gradient Boost.
+
+## Hyperparameter Tuning
+## Selecting the best model
+## Pipeline for Machine Learning
+## Testing with unseen data
